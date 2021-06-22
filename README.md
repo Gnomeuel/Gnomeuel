@@ -1,6 +1,6 @@
 # Hi 👋
 
-My name is Sam or Gnomeuel. I am a 17 year old developer and student. I like music, coding, and playing video games!
+Hi, I'm Sam (Gnomeuel). I am a 17 year old developer and student. I like music, coding, and playing video games!
 
 ## Projects
 
