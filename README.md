@@ -4,7 +4,10 @@ Hi, I'm Sam (Gnomeuel). I am a 17 year old developer and student. I like music, 
 
 ## Projects
 
-- I’m currently working on [Versus](https://discord.com/oauth2/authorize?client_id=837732310194454588&permissions=2164599888&scope=bot). A Discord bot that allows you to make random teams with your current voice channel users. 
+[Versus](https://discord.com/oauth2/authorize?client_id=837732310194454588&permissions=2164599888&scope=bot) - A Discord bot that allows you to make random teams with your current voice channel users. 
+
+## Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Discord
 
